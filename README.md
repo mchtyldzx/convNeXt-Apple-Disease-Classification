@@ -1,6 +1,6 @@
 # 🍎 Apple Leaf Disease Detection
 
-This project detects diseases on apple leaves taken from the <a href="https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data" target="_blank"><strong>Kaggle PlantVillage</strong></a> dataset using the modern **ConvNeXt Small** architecture. In this study, the model performance is analyzed comparatively under two different training scenarios: **Transfer Learning (TL=True)** and **Fine-Tuning (TL=False)**.
+This project detects diseases on apple leaves taken from the [**Kaggle PlantVillage**](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data) dataset using the modern **ConvNeXt Small** architecture. In this study, the model performance is analyzed comparatively under two different training scenarios: **Transfer Learning (TL=True)** and **Fine-Tuning (TL=False)**.
 
 ##  Model Architecture: ConvNeXt-Small
 
